@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Python developer**
 
-- 👨‍💻 All of my projects are available at [https://manugowda18.github.io/in](https://manugowda18.github.io/in)
+- 👨‍💻 All of my projects are available at [https://manojgowda.tk](https://manojgowda.tk)
 
 - 💬 Ask me about **Frontend,Python,Flutter...**
 
