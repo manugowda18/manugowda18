@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Flutter,Firebase,Blockchain...**
 
-- 👯 I’m looking to collaborate on **Python developer**
+- 👯 I’m looking to collaborate on **Flutter developer**
 
-- 👨‍💻 All of my projects are available at [https://manojgowda.tk](https://manojgowda.tk)
+- 👨‍💻 All of my projects are available at [manojgowda.tk](manojgowda.tk)
 
 - 💬 Ask me about **Frontend,Python,Flutter...**
 
