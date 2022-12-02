@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on **Flutter developer**
 
-- 👨‍💻 All of my projects are available at [manojgowda.tk](manojgowda.tk)
+- 👨‍💻 All of my projects are available at [http://manojgowda.tk/](http://manojgowda.tk/)
 
-- 💬 Ask me about **Frontend,Python,Flutter...**
+- 💬 Ask me about **Frontend,Python,Flutter,Firebase...**
 
 - 📫 How to reach me **manumanojgowda570@gmail.com**
 
