@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Flutter developer**
 
-- 👨‍💻 All of my projects are available at [http://manojgowda.tk/](http://manojgowda.tk/)
+- 👨‍💻 All of my projects are available at [https://manojgowda.tk/](https://manojgowda.tk/)
 
 - 💬 Ask me about **Frontend,Python,Flutter,Firebase...**
 
