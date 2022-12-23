@@ -3,7 +3,7 @@
 <h3 align="center">I'm BE in CSE Student in PESCE,Mandya</h3>
 <img align="right" width="400"  alt="coding" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-- 🔭 I’m currently working on [E-Cell,College website Portal](https://pescemandya.org/ecell/)
+- 🔭 I’m currently working on [Flutter,Blockchain...]
 
 - 🌱 I’m currently learning **Flutter,Firebase,Blockchain...**
 
