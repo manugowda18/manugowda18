@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Flutter,Blockchain....**
 
-- 🌱 I’m currently learning **Flutter,Firebase,Blockchain...**
+- 🌱 I’m currently learning **Blockchain,Solidity,Flutter,Firebase...**
 
 - 👯 I’m looking to collaborate on **Flutter developer**
 
