@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://manojgowda.tk/](https://manojgowda.tk/)
 
-- 💬 Ask me about **Frontend,Python,Flutter,Firebase...**
+- 💬 Ask me about **Blockchain,Solidity,Python,Flutter,Firebase,ReactJS...**
 
 - 📫 How to reach me **manumanojgowda570@gmail.com**
 
