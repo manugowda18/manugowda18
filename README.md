@@ -3,15 +3,15 @@
 <h3 align="center">I'm BE in CSE Student in PESCE,Mandya</h3>
 <img align="right" width="400"  alt="coding" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-- 🔭 I’m currently working on **Blockchain,Solidity,Flutter....**
+- 🔭 I’m currently working on **Web3,Blockchain**
 
-- 🌱 I’m currently learning **Blockchain,Solidity,Flutter,Firebase...**
+- 🌱 I’m currently learning **Blockchain.**
 
-- 👯 I’m looking to collaborate on **Flutter developer**
+- 👯 I’m looking to collaborate on **Blockchain developer**
 
 - 👨‍💻 All of my projects are available at [https://manojgowda.tk/](https://manojgowda.tk/)
 
-- 💬 Ask me about **Blockchain,Solidity,Python,Flutter,Firebase,ReactJS...**
+- 💬 Ask me about **Development**
 
 - 📫 How to reach me **manumanojgowda570@gmail.com**
 
