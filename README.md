@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://manugowda18.github.io/in)
+
 <h1 align="center">Hi 👋, I'm Manojgowda K S</h1>
 <h3 align="center">I'm BE in CSE Student in PESCE,Mandya</h3>
 <img align="right" width="400"  alt="coding" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
