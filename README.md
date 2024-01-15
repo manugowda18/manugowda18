@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Blockchain developer**
 
-- 👨‍💻 All of my projects are available at [https://manojgowda.tk/](https://manojgowda.tk/)
+- 👨‍💻 All of my projects are available at [https://0xmanu.me/](https://0xmanu.me/)
 
 - 💬 Ask me about **Development**
 
