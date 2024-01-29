@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Development**
 
-- 📫 How to reach me **manumanojgowda570@gmail.com**
+- 📫 How to reach me **manojgowdaks07@gmail.com**
 
 - ⚡ Fun fact **I think I'm not Funny**
 
