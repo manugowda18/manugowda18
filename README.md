@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working on **Web3,Blockchain,Security**
 
-- 💬 Ask me about **Web3 Development & Security **
-
-- 📫 How to reach me **manojgowdaks07@gmail.com**
+- 💬 Ask me about **Web3 Development & Security**
 
 - ⚡ Fun fact **I think I'm not Funny**
 
